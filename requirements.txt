@@ -1,0 +1,12 @@
+# Libraries used by 00_FINAL_GroupB_H1N1_TownBill.ipynb
+# (tested with the versions in the comments, Python 3.12)
+numpy          # 2.2.5
+pandas         # 2.2.3
+scipy          # 1.15.3
+scikit-learn   # 1.8.0
+xgboost        # 3.1.2
+catboost       # 1.2.8
+shap           # 0.50.0
+matplotlib     # 3.10.3
+seaborn        # 0.13.2
+joblib

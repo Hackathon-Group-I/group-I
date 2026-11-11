@@ -1,0 +1,6 @@
+order,file,model,cv bill $/resident,cv std,cv saving vs nobody $,posted in cv %,posted in test %,vaccines posted in test
+1,challenge_submission_group_I_order_1.csv,XGBoost (tuned) + isotonic,393.228,6.205,24.862,17.45,17.88,849
+2,challenge_submission_group_I_order_2.csv,Blend of five,393.261,5.813,24.829,14.95,15.65,743
+3,challenge_submission_group_I_order_3.csv,Blend of three,393.478,5.891,24.612,15.53,16.05,762
+4,challenge_submission_group_I_order_4.csv,"XGBoost (tuned, dollar-weighted)",393.537,6.464,24.553,16.3,16.87,801
+5,challenge_submission_group_I_order_5.csv,"Elastic net (tuned, dollar-weighted)",393.541,6.528,24.549,16.43,16.66,791
