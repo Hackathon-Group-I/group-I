@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| GitHub organisation | `https://github.com/<our-organisation>` (fill in) |
-| Shared Colab notebook | `https://colab.research.google.com/drive/<id>` (fill in, Editor rights) |
+| GitHub organisation | `https://github.com/<our-organisation>`  |
+| Shared Colab notebook | `https://colab.research.google.com/drive/<id>`  |
 
 ## The task
 
