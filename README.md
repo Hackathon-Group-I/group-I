@@ -90,11 +90,11 @@ Open `00_FINAL_GroupI_H1N1_TownBill.ipynb` and choose **Run all**. It reads the 
 ## Team
 | Member | | Questions owned in this notebook |
 |---|---|---|
-| (Mahesh babu Poka) | | Q1 data checks, Q7 files and upload |
-| (Anilkumar Chava) | | Q2 exploration |
-| (Akashreddy Yeluguri) | | Q3 the bill, AI research on hospitalisation |
-| (Deepika gopi,Thammishetti Venkat Sai Prathap ) | | Q4 preparing the data |
-| (Thammishetti Venkat Sai Prathap,Soma Mani Deepak) | | Q5 models and tuning |
-| (Soma Mani Deepak,Deepika gopi) | | Q6 comparing results, stress test |
+| (Mahesh babu Poka-24070896) | | Q1 data checks, Q7 files and upload |
+| (Anilkumar Chava-24068000) | | Q2 exploration |
+| (Akashreddy Yeluguri-23090908) | | Q3 the bill, AI research on hospitalisation |
+| (Deepika gopi-24099803,Thammishetti Venkat Sai Prathap-24089794 ) | | Q4 preparing the data |
+| (Thammishetti Venkat Sai Prathap-24089794,Soma Mani Deepak-24095193) | | Q5 models and tuning |
+| (Soma Mani Deepak-24095193,Deepika gopi-24099803) | | Q6 comparing results, stress test |
 | (All) | | Q8 explanations, Q9 review and slides |
 
