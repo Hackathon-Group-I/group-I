@@ -84,7 +84,7 @@ The notebook is written as nine questions.
 pip install -r requirements.txt
 ```
 
-Open `00_FINAL_GroupI_H1N1_TownBill.ipynb` and choose **Run all**. It reads the three csv files from this folder and rewrites `submission/` and `ranking.csv`. Results are reproducible: every random step uses `SEED = 2009`.
+Open `FINAL_GroupI_H1N1_TownBill.ipynb` and choose **Run all**. It reads the three csv files from this folder and rewrites `submission/` and `ranking.csv`. Results are reproducible: every random step uses `SEED = 2009`.
 
 
 ## Team
