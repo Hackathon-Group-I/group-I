@@ -110,4 +110,4 @@ In Google Colab, set `GITHUB_RAW` in section Q1.2 to the raw address of the publ
 - [ ] Upload the five files in `submission/` and both links to Canvas before **16:00 today**.
 - [ ] Optional: add answers from other AIs (ChatGPT, Gemini) to `AI_ANSWERS` in Q3.3 and re-run.
 - [ ] Slides on Canvas before **10:00, Tuesday 17 November**; notebook Q9.2 is the draft of the non-expert slide.
-- [ ] Feedback Fruits peer review.
+- [ ] Feedback Fruits peer review
