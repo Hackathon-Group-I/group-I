@@ -4,8 +4,9 @@
 
 | | |
 |---|---|
-| GitHub organisation | `https://github.com/<our-organisation>`  |
-| Shared Colab notebook | `https://colab.research.google.com/drive/<id>`  |
+| GitHub organisation | `https://github.com/Hackathon-Group-I/group-I.git`  |
+| Shared Colab notebook | `https://colab.research.google.com/drive/1FINyH7lcDjPVqlzo_-9xt8ygVPqX_sUu?usp=sharing`  |
+
 
 ## The task
 
@@ -85,29 +86,15 @@ pip install -r requirements.txt
 
 Open `00_FINAL_GroupI_H1N1_TownBill.ipynb` and choose **Run all**. It reads the three csv files from this folder and rewrites `submission/` and `ranking.csv`. Results are reproducible: every random step uses `SEED = 2009`.
 
-In Google Colab, set `GITHUB_RAW` in section Q1.2 to the raw address of the public repository and run `!pip install catboost shap` first. See `HOW_TO_PUSH_TO_GITHUB.md`, Part 4.
 
 ## Team
-
-| Member | Student ID | Part of the notebook |
+| Member | | Questions owned in this notebook |
 |---|---|---|
-| (name) | | Q1 data checks, Q7 files and upload |
-| (name) | | Q2 exploration |
-| (name) | | Q2 exploration |
-| (name) | | Q3 the bill, AI research |
-| (name) | | Q4 pre-processing |
-| (name) | | Q5 models and tuning |
-| (name) | | Q5 models and tuning |
-| (name) | | Q6 comparison and stress test |
-| (name) | | Q8 explanations, Q9 review, slides |
+| (Mahesh babu Poka) | | Q1 data checks, Q7 files and upload |
+| (Anilkumar Chava) | | Q2 exploration |
+| (Akashreddy Yeluguri) | | Q3 the bill, AI research on hospitalisation |
+| (Deepika gopi,Thammishetti Venkat Sai Prathap ) | | Q4 preparing the data |
+| (Thammishetti Venkat Sai Prathap,Soma Mani Deepak) | | Q5 models and tuning |
+| (Soma Mani Deepak,Deepika gopi) | | Q6 comparing results, stress test |
+| (All) | | Q8 explanations, Q9 review and slides |
 
-## Still to do
-
-- [ ] Create the organisation and public repository, push this folder (`HOW_TO_PUSH_TO_GITHUB.md`).
-- [ ] Put both links at the top of this file, in the first notebook cell and on slide 1.
-- [ ] Fill in names and student IDs here and in the notebook.
-- [ ] Every member commits from their own GitHub account.
-- [ ] Upload the five files in `submission/` and both links to Canvas before **16:00 today**.
-- [ ] Optional: add answers from other AIs (ChatGPT, Gemini) to `AI_ANSWERS` in Q3.3 and re-run.
-- [ ] Slides on Canvas before **10:00, Tuesday 17 November**; notebook Q9.2 is the draft of the non-expert slide.
-- [ ] Feedback Fruits peer review
