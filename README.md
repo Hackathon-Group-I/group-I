@@ -22,7 +22,7 @@ Prices are from `Dataset B Information.pdf`. The target column is `h1n1_vaccine`
 
 ```
 .
-├── 00_FINAL_GroupI_H1N1_TownBill.ipynb   the whole project, executed (about 5 minutes to re-run)
+├── FINAL_GroupI_H1N1_TownBill.ipynb   the whole project, executed (about 5 minutes to re-run)
 ├── submission/                           the five files to upload to Canvas, best to worst
 │   ├── challenge_submission_group_I_order_1.csv
 │   ├── challenge_submission_group_I_order_2.csv
